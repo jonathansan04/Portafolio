@@ -1,7 +1,7 @@
 {
   "name": "portafolio",
   "private": true,
-  "homepage": "https://jonathansan04.github.io/Portafolio",
+  "homepage": "https://jonathansan04.github.io/Portafolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "vite build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
