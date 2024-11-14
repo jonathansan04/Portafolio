@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Contenido from './components/Contenido'
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <>
       
       <Header/>
+      <Contenido/>
       <Footer/>
       
     </>
