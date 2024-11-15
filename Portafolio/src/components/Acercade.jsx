@@ -8,6 +8,7 @@ import Contenido from './Contenido';
       <Contenido/>
     </div>
   );
+  
 };
 
 export default Acercade;

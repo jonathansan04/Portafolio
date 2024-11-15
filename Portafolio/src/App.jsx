@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     
-      <BrowserRouter>
+      <BrowserRouter basename="/Portafolio">
       <Header/>
       <Routes>
       <Route path="/" element={<Contenido/>}/>
