@@ -19,12 +19,13 @@ import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa';
        <div className="container text-center">
         <h3 className='footer-sienna-tittle'>Portafolio Jonathan Santos</h3>
         <section className='footer-credits'>
-            <p>Diseño y desarrollo</p>
+            <p>Ingeniero de sistemas</p>
+            <p>Desarrollador Full Stack</p>
             <p className='footer-location'>Bogotá, 2024</p>
         </section>
 
         <div className="mb-3">
-          <a href="https://www.linkedin.com/in/tuusuario" target="_blank" rel="noopener noreferrer" className="text-light mx-2">
+          <a href="www.linkedin.com/in/jonathan-santos-8033002b3" target="_blank" rel="noopener noreferrer" className="text-light mx-2">
             <FaLinkedin size={24} />
           </a>
           <a href="https://github.com/jonathansan04" target="_blank" rel="noopener noreferrer" className="text-light mx-2">

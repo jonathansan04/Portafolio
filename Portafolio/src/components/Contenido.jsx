@@ -2,7 +2,7 @@ import  React from 'react';
 
  function Contenido() {
   return (
-    <div>
+    <div className='card'>
       <h1>Acerca de mi</h1>
 
       <h4> Soy Jonathan Santos ingeniero de sistemas con formación en desarrollo de software, desarrollo web, análisis de datos e inteligencia artificial. Durante mi carrera académica, he adquirido habilidades técnicas en herramientas y/o lenguajes de programación, como Python, Java, SQL, JavaScript, React, Rstudio, adicionalmente he trabajado en diferentes proyectos académicos de desarrollo web usando diferentes metodologias.
